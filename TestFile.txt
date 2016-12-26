@@ -1,2 +1,3 @@
 Hello world
 change in MyFeature1
+now in master
