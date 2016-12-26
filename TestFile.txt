@@ -1,7 +1,3 @@
 Hello world
-change in MyFeature1change in MyFeature1
-<<<<<<< 03af39b94b38d7d8d741438615ce30ce992d4ebf
-change from master
-=======
-don't have the change in master
->>>>>>> don't have change in master
+change in MyFeature1
+in develop
