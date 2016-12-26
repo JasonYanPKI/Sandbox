@@ -1,3 +1,4 @@
 Hello world
 change in MyFeature1
-in develop
+now in master
+also in feature
